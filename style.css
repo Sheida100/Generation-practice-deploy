@@ -2,9 +2,14 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    background-color: rgb(196, 207, 196);
+    background-color: rgb(10, 10, 10);
+}
+header{
+    margin:10px auto;
+
 }
 
 h1{
-    background-color:rgb(218, 190, 190);
+    background-color:rgb(109, 112, 112);
+    
 }
